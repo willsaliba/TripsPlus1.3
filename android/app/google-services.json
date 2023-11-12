@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "926776724214",
+    "project_id": "ws-tripsplus",
+    "storage_bucket": "ws-tripsplus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926776724214:android:21be7e65546f4ef1067ad7",
+        "android_client_info": {
+          "package_name": "io.saliba.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926776724214-8vjfheqa178nvk81hl111fe3adjacq17.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb1nMlrlcGmoVtmDGHFHSx8y2rD3QeoXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "926776724214-6271akl1cf18iqpteiptoe899pl35h7l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "926776724214-8qp0l1689quipqgmjfhcg4u2mt7v0tmj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.saliba.myapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
